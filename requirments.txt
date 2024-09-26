@@ -1,0 +1,13 @@
+Nvidia CUDA - 11.8.89
+Nvidia cuDNN - 6.14
+OpenCV - 4.9.0
+TensorFlow -2.10.1
+keras- 2.10.0
+numpy - 1.26.4
+matplotlib - 3.9.0
+imageio - 2.34.1
+streamlit - 1.38.0
+moviepy - 1.0.3
+pillow - 10.3.0
+
+
