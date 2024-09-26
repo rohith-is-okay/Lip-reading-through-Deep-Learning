@@ -7,3 +7,7 @@ https://www.lavivienpost.com/install-tensorflow-gpu-on-windows-complete-guide/
 see the reuqirements in the requirments.txt file
 
 Download the files required for training through 
+https://spandh.dcs.shef.ac.uk/gridcorpus/
+save the videos and the alignemnts in a folder named data and under the speaker name as such
+mainprojfolder/data/s1
+mainprojectfolder/data/alignments/s1
