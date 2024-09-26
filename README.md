@@ -5,3 +5,5 @@ Please follow through this post to initialize tensorflow with gpu
 https://www.lavivienpost.com/install-tensorflow-gpu-on-windows-complete-guide/
 
 see the reuqirements in the requirments.txt file
+
+Download the files required for training through 
