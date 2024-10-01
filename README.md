@@ -11,3 +11,5 @@ https://spandh.dcs.shef.ac.uk/gridcorpus/
 save the videos and the alignemnts in a folder named data and under the speaker name as such
 mainprojfolder/data/s1
 mainprojectfolder/data/alignments/s1
+
+Run the app through streamlit to see a visual representation of the main features of the ML model and how it sees the data
