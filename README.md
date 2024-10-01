@@ -12,4 +12,4 @@ save the videos and the alignemnts in a folder named data and under the speaker 
 mainprojfolder/data/s1
 mainprojectfolder/data/alignments/s1
 
-Run the app through streamlit to see a visual representation of the main features of the ML model and how it sees the data
+Run the app.py through streamlit to see a visual representation of the main features of the ML model and how it sees the data
